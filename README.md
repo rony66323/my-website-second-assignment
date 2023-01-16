@@ -1,5 +1,5 @@
 # my-website-second-assignment
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -93,6 +93,7 @@
           }
           #article{
             border: 0.5px solid rgb(241, 241, 240);
+            overflow: scroll;
             margin-top: 5px ;
           }
           .blog{
