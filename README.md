@@ -145,6 +145,7 @@
             display: flex;
             justify-content: center;
             justify-content:space-evenly;
+            list-style: none;
           }
           .sub-container li{
             list-style: none;      
