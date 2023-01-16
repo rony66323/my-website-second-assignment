@@ -86,14 +86,15 @@
           .banner-third{
             display: flex;
             margin: 7%;
-            height: 600px;
+            height: 800px;
             text-align: left;
             border: 0.5px solid rgb(241, 241, 240);
             
           }
           #article{
             border: 0.5px solid rgb(241, 241, 240);
-            overflow: scroll;
+            width: 100px;
+            height: 100px;
             margin-top: 5px ;
           }
           .blog{
